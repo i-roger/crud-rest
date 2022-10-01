@@ -1,0 +1,7 @@
+Desenvolvi uma API REST : Utilizando os HTTP VERBS
+* GET, POST, PUT, DELETE
+#####################################################
+
+As configurações dos http verbs são feitas no banco de dados BD_NOTES.JS
+
+As requisições dos http verbs são configuradas no SERVER.JS
