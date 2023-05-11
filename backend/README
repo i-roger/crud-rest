@@ -5,3 +5,9 @@ Desenvolvi uma API REST : Utilizando os HTTP VERBS
 As configurações dos http verbs são feitas no banco de dados BD_NOTES.JS
 
 As requisições dos http verbs são configuradas no SERVER.JS
+
+Necessário utilizar o POSTMANN, INSOMNIA... para enviar as ações dos HTTP VERBS
+* GET, POST, PUT, DELETE
+-> Passando as informações das varíaveis/ID.
+
+OBS: Projeto apenas para teste de BackEnd
